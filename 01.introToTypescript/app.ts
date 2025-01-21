@@ -1,0 +1,1 @@
+// TypeScript is a superset of JavaScript that adds static typing, modern features, and compile-time error checking, making code more robust and scalable while remaining compatible with existing JavaScript and platforms.
